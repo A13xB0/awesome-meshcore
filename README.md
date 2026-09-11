@@ -308,6 +308,7 @@ or IoT sensor networks.
   - [Lehigh Valley Mesh](https://lvmesh.com/) - Serves Eastern Pennsylvania and New Jersey.
   - [Lexington, KY Mesh](https://meshcorelexington.com/)
   - [Louisiana Mesh](https://louisianamesh.org/)
+  - [Michigan Mesh Network](https://michmesh.com/) - Michigan statewide; Meshtastic, MeshCore, and Reticulum.
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
   - [Missouri Mesh](https://missourimesh.org/)
   - [Meshcore Texas](https://meshcoretx.net/)
@@ -387,6 +388,8 @@ In addition, there are e.g.:
 - [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
 - [Lehigh Valley Mesh Discord](https://discord.lvmesh.com/)
+- [Michigan Mesh Network Discord](https://discord.gg/3A5RREcBcc)
+- [Michigan Mesh Network Signal](https://signal.group/#CjQKIG5-o6UUXvto66c1wN4fbinuguy614cJtRPmMxUA6JWyEhBKp6Q70OkA2MpcjsBYU1r9)
 - [Missouri Mesh Discord](https://missourimesh.org/discord)
 - [NTXMesh Discord](https://discord.gg/nGeQ8cbSM3)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
