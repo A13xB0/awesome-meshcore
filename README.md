@@ -323,6 +323,8 @@ or IoT sensor networks.
   - [Meshcore Texas](https://meshcoretx.net/)
   - [NTXMesh](https://ntxmesh.com/) - Dallas-Fort Worth and surrounding areas.
   - [Nevada Mesh](https://nvme.sh/)
+  - [New York - NYC](https://nyme.sh)
+  - [New York - Long Island](https://limesh.org) 
   - [North Dakota Mesh](https://nodakmesh.org/)
   - [Pioneer Valley Mesh](https://pvmesh.org/) 
   - [RDUmesh North Carolina Piedmont](https://rdumesh.org/)
