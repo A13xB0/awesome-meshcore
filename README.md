@@ -255,7 +255,7 @@ or IoT sensor networks.
 - Great Britain
   - [Ipswich Net](https://ipnt.uk/)
   - [MeshCore Wales](https://meshcore.wales/)
-  - [ScotMesh](https://wiki.scotmesh.uk/en/MeshCore/getting-started)
+  - [ScotMesh](https://meshcore.scotmesh.net/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Kazakhstan
