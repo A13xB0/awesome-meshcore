@@ -4,8 +4,7 @@
 
 MeshCore is a multi-platform system for enabling secure text based
 communications utilising LoRa radio hardware. It can be used for off-grid
-communication, emergency response & disaster recovery, outdoor activities,
-tactical security including law enforcement, private security and also IoT
+communication, emergency response & disaster recovery, outdoor activities and IoT
 sensor networks.
 
 ## Contents
